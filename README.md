@@ -8,7 +8,7 @@ https://github.com/Nikolai-Nemkov/OOP_5_DZ_26.02.24./blob/main/Model/Teacher.jav
 
 https://github.com/Nikolai-Nemkov/OOP_5_DZ_26.02.24./blob/main/Model/User.java
 
-
+https://github.com/Nikolai-Nemkov/OOP_5_DZ_26.02.24./blob/main/Model/StudentGroup.java
 
 ## Service
 
